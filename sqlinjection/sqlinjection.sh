@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "Welcome to the automated SQL Injection tester."
+echo "Welcome to the automated SQL Injection tester!"
 
 #url = The target URL
 read -p "Enter the target URL: " url
